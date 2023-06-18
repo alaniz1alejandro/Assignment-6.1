@@ -1,0 +1,21 @@
+/*these are to style the body*/
+body{
+background-color: darkgray;
+
+}
+/*this is to style the meme img*/
+#Pic{
+    text-align: center;
+    
+
+}
+/*this is to modify the text*/
+h1{text-align: center;}
+/*this is to style the botton*/
+.button{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: red;
+}
